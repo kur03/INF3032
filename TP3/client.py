@@ -34,7 +34,6 @@ from PyQt5.QtWidgets import (
 from PyQt5.Qt import QUrl, QDesktopServices
 import requests
 import sys
-import webbrowser
 
 class MainWindow(QWidget):
     def __init__(self):
@@ -89,8 +88,8 @@ class MainWindow(QWidget):
                 self.label4.setText("Longitute: %s\nLatitude: %s " % (lon, lat))
                 self.label4.adjustSize()
                 self.show()
-                url_locate = "http://www.openstreetmap.org/?mlat=" + str(lat) + "&mlon=" + str(lon) + ">#map=12"
-                webbrowser.open(url_locate)
+                url_locate = QUrl("www.openstreetmap.org/?mlat=" + str(lat) + "&mlon=" + str(lon) + ">#map=12")
+                QDesktopServices.openUrl(url_locate)
 
     def __query(self, hostname):
         url = "http://%s" % (hostname)
