@@ -1,0 +1,12 @@
+1) What is a web service?
+A webservice is an app allowing differents app to exchange informations.
+It's an information exchange system.
+Some of the most famous web services are HTTP, SOAP and REST.
+https://www.oracle.com/fr/cloud/definition-web-service/
+
+2) What is a REST API?
+An API will help us set rules during the making of an app.
+REST is a set of rule that a developers can follow to create an API.
+A REST API have to comply to 6 criterias :
+- there must be a client-server architecture.
+3) What is a FastAPI ?
