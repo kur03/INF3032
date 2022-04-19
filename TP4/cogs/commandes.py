@@ -1,4 +1,4 @@
-import discord
+import discord, logging
 from discord.ext import commands
 from shiritori import shiritori
 
@@ -11,6 +11,7 @@ class MyCommands(commands.Cog):
         
     @commands.command()
     async def help(self, ctx):
+        logging.info("Display command manual")
         embed=discord.Embed(title="What can James do for you ?", url="", description="This is a manual on how to use James", color=0xFF5733)
         
         embed.set_author(name="Chloé", url="https://github.com/kur03")
@@ -32,29 +33,31 @@ class MyCommands(commands.Cog):
         
     @commands.command(name="del")
     async def delete(self, ctx, number: int):
+        logging.info("Delete message")
         messages = await ctx.channel.history(limit=number + 1).flatten()
         
         for each_message in messages:
             await each_message.delete()
+            
     
     @commands.Cog.listener()
     async def on_message(self, message):
-        if message.content == "gperdu":
+        if message.content == "gperdu" :
             #Pour envoyer un message avec le bot, on utilise message.channel 
             # qui nous permet de récupérer le salon sur lequel le message a été envoyé. 
             # On utilise ensuite la méthode send de ce salon pour envoyer un message avec le bot.
-            await message.channel.send("https://cdn.discordapp.com/attachments/760200285498376212/958278241314025532/sipersicret.png")           
+            await message.channel.send("https://cdn.discordapp.com/attachments/760200285498376212/958278241314025532/sipersicret.png")
+            logging.info(f"Message sent in {message.channel}")
 
-        if message.channel.name == "🐍-tp4" :
-            if message.author.name != "JamesThePyBot" :    
-                if shiritori(message.content) :
-                    await message.channel.send(f"{message.author.mention} ce mot a déjà été utilisé tu as donc perdu. Tu pourras recommencer à jouer au prochain tour !")
-                    
-           
+        if message.author.name != "JamesThePyBot" and message.channel.name == "🧬-shiritori" :    
+            if shiritori(message.content) :
+                await message.channel.send(f"{message.author.mention} ce mot a déjà été utilisé tu as donc perdu. Tu pourras recommencer à jouer au prochain tour !")
+                logging.info(f"{message.author.name} has lost")
+              
               
     async def on_member_join(self, member):
+        logging.info(f"{member.display_name} has join the server !")
         general_channel = self.client.get_channel(959413124648271979)
-        print(f"L'utilisateur {member.display_name} a rejoint le serveur !")
         await general_channel.send(f"We've got a lost tourist here !")
     
         

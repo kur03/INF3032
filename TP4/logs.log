@@ -1,0 +1,18 @@
+2022-04-19 22:13:58,083 - WARNING: PyNaCl is not installed, voice will NOT be supported
+2022-04-19 22:13:58,084 - INFO: logging in using static token
+2022-04-19 22:13:58,555 - INFO: Shard ID None has sent the IDENTIFY payload.
+2022-04-19 22:13:59,293 - INFO: Shard ID None has connected to Gateway: ["gateway-prd-main-h7d3",{"micros":639655,"calls":["discord-sessions-blue-prd-2-2",{"micros":638180,"calls":["start_session",{"micros":607130,"calls":["discord-api-76fd856c74-f7swh",{"micros":602741,"calls":["get_user",{"micros":10560},"add_authorized_ip",{"micros":1851},"get_guilds",{"micros":20142},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":17548,"calls":[]}]}]}] (Session ID: 8412cc084295a39cd514c58a75e6cbc2).
+2022-04-19 22:14:01,619 - INFO: JamesThePyBot is ready to help you !
+2022-04-19 22:14:32,852 - INFO: Received signal to terminate bot and event loop.
+2022-04-19 22:14:32,852 - INFO: Cleaning up tasks.
+2022-04-19 22:14:32,852 - INFO: Cleaning up after 1 tasks.
+2022-04-19 22:14:32,853 - INFO: All tasks finished cancelling.
+2022-04-19 22:14:32,854 - INFO: Closing the event loop.
+2022-04-19 22:29:16,722 - WARNING: PyNaCl is not installed, voice will NOT be supported
+2022-04-19 22:29:16,722 - INFO: logging in using static token
+2022-04-19 22:29:17,113 - INFO: Shard ID None has sent the IDENTIFY payload.
+2022-04-19 22:29:17,377 - INFO: Shard ID None has connected to Gateway: ["gateway-prd-main-vtn3",{"micros":169512,"calls":["discord-sessions-blue-prd-2-94",{"micros":168548,"calls":["start_session",{"micros":147239,"calls":["discord-api-76fd856c74-jnsx2",{"micros":139637,"calls":["get_user",{"micros":42183},"add_authorized_ip",{"micros":13436},"get_guilds",{"micros":23988},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":7793,"calls":[]}]}]}] (Session ID: 76b84e494c15a3c764c5a01150c7cd9b).
+2022-04-19 22:29:19,853 - INFO: JamesThePyBot is ready to help you !
+2022-04-19 22:34:05,688 - INFO: Message sent in \U0001f40d-tp4
+2022-04-19 22:34:09,864 - INFO: Display command manual
+2022-04-19 22:34:13,515 - INFO: Delete message

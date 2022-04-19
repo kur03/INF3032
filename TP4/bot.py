@@ -1,6 +1,5 @@
 from discord.ext import commands
-import json
-import logging
+import json, logging
 
 
 class MyBot(commands.Bot) :
