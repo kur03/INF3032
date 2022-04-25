@@ -16,3 +16,107 @@
 2022-04-19 22:34:05,688 - INFO: Message sent in \U0001f40d-tp4
 2022-04-19 22:34:09,864 - INFO: Display command manual
 2022-04-19 22:34:13,515 - INFO: Delete message
+2022-04-22 11:43:04,653 - WARNING: PyNaCl is not installed, voice will NOT be supported
+2022-04-22 11:43:04,663 - INFO: logging in using static token
+2022-04-22 11:43:05,172 - INFO: Shard ID None has sent the IDENTIFY payload.
+2022-04-22 11:43:05,375 - INFO: Shard ID None has connected to Gateway: ["gateway-prd-main-q2sk",{"micros":99995,"calls":["discord-sessions-blue-prd-2-132",{"micros":99128,"calls":["start_session",{"micros":46826,"calls":["discord-api-67fb5dfbc8-5xqz7",{"micros":42166,"calls":["get_user",{"micros":10432},"add_authorized_ip",{"micros":2162},"get_guilds",{"micros":7684},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":5262,"calls":[]}]}]}] (Session ID: ae47bcbf293b780c7bbb08419b8d736d).
+2022-04-22 11:43:14,831 - INFO: JamesThePyBot is ready to help you !
+2022-04-22 11:45:19,074 - WARNING: Shard ID None heartbeat blocked for more than 10 seconds.2022-04-22 13:40:09,701 - INFO: Delete message
+2022-04-22 13:40:26,753 - INFO: Received signal to terminate bot and event loop.
+2022-04-22 13:40:26,754 - INFO: Cleaning up tasks.
+2022-04-22 13:40:26,755 - INFO: Cleaning up after 1 tasks.
+2022-04-22 13:40:26,759 - INFO: All tasks finished cancelling.
+2022-04-22 13:40:26,760 - INFO: Closing the event loop.
+2022-04-22 13:40:27,989 - WARNING: PyNaCl is not installed, voice will NOT be supported
+2022-04-22 13:40:27,990 - INFO: logging in using static token
+2022-04-22 13:40:28,389 - INFO: Shard ID None has sent the IDENTIFY payload.
+2022-04-22 13:40:28,581 - INFO: Shard ID None has connected to Gateway: ["gateway-prd-main-gr3p",{"micros":88190,"calls":["discord-sessions-blue-prd-2-127",{"micros":87448,"calls":["start_session",{"micros":52994,"calls":["discord-api-67fb5dfbc8-2x5fd",{"micros":47431,"calls":["get_user",{"micros":7704},"add_authorized_ip",{"micros":3983},"get_guilds",{"micros":6817},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":33896,"calls":[]}]}]}] (Session ID: 7a671b04b1093e3b13a3a0e531058c53).
+2022-04-22 13:40:30,994 - INFO: JamesThePyBot is ready to help you !
+2022-04-22 13:40:51,408 - INFO: Received signal to terminate bot and event loop.
+2022-04-22 13:40:51,409 - INFO: Cleaning up tasks.
+2022-04-22 13:40:51,409 - INFO: Cleaning up after 1 tasks.
+2022-04-22 13:40:51,413 - INFO: All tasks finished cancelling.
+2022-04-22 13:40:51,414 - INFO: Closing the event loop.
+2022-04-22 13:40:52,750 - WARNING: PyNaCl is not installed, voice will NOT be supported
+2022-04-22 13:40:52,751 - INFO: logging in using static token
+2022-04-22 13:40:53,113 - INFO: Shard ID None has sent the IDENTIFY payload.
+2022-04-22 13:40:53,306 - INFO: Shard ID None has connected to Gateway: ["gateway-prd-main-d9zh",{"micros":93099,"calls":["discord-sessions-blue-prd-2-110",{"micros":92084,"calls":["start_session",{"micros":86459,"calls":["discord-api-67fb5dfbc8-f2vlj",{"micros":80157,"calls":["get_user",{"micros":12812},"add_authorized_ip",{"micros":4453},"get_guilds",{"micros":15970},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":78,"calls":[]}]}]}] (Session ID: 1fe6cc477994a17bd668361e6da2727d).
+2022-04-22 13:40:55,905 - INFO: JamesThePyBot is ready to help you !
+2022-04-22 13:40:57,125 - INFO: Display command manual
+2022-04-22 13:41:00,446 - INFO: {number} messages were deleted
+2022-04-22 13:41:24,023 - INFO: Received signal to terminate bot and event loop.
+2022-04-22 13:41:24,024 - INFO: Cleaning up tasks.
+2022-04-22 13:41:24,024 - INFO: Cleaning up after 1 tasks.
+2022-04-22 13:41:24,028 - INFO: All tasks finished cancelling.
+2022-04-22 13:41:24,029 - INFO: Closing the event loop.
+2022-04-22 13:41:26,410 - WARNING: PyNaCl is not installed, voice will NOT be supported
+2022-04-22 13:41:26,411 - INFO: logging in using static token
+2022-04-22 13:41:26,791 - INFO: Shard ID None has sent the IDENTIFY payload.
+2022-04-22 13:41:26,980 - INFO: Shard ID None has connected to Gateway: ["gateway-prd-main-r5dj",{"micros":84809,"calls":["discord-sessions-blue-prd-2-10",{"micros":83104,"calls":["start_session",{"micros":49772,"calls":["discord-api-67fb5dfbc8-bzgtz",{"micros":45474,"calls":["get_user",{"micros":9691},"add_authorized_ip",{"micros":2650},"get_guilds",{"micros":9229},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: 9ea8c7114304e27aa444a820ef64ed15).
+2022-04-22 13:41:29,421 - INFO: JamesThePyBot is ready to help you !
+2022-04-22 13:41:30,922 - INFO: 5 messages were deleted
+2022-04-22 13:41:32,762 - WARNING: We are being rate limited. Retrying in 3.44 seconds. Handled under the bucket "959787454037098506:None:/channels/{channel_id}/messages/{message_id}"
+2022-04-22 13:42:59,059 - INFO: Received signal to terminate bot and event loop.
+2022-04-22 13:42:59,060 - INFO: Cleaning up tasks.
+2022-04-22 13:42:59,060 - INFO: Cleaning up after 1 tasks.
+2022-04-22 13:42:59,064 - INFO: All tasks finished cancelling.
+2022-04-22 13:42:59,065 - INFO: Closing the event loop.
+2022-04-22 13:43:00,397 - WARNING: PyNaCl is not installed, voice will NOT be supported
+2022-04-22 13:43:00,398 - INFO: logging in using static token
+2022-04-22 13:43:00,779 - INFO: Shard ID None has sent the IDENTIFY payload.
+2022-04-22 13:43:00,962 - INFO: Shard ID None has connected to Gateway: ["gateway-prd-main-h2s2",{"micros":75317,"calls":["discord-sessions-blue-prd-2-109",{"micros":73647,"calls":["start_session",{"micros":55381,"calls":["discord-api-67fb5dfbc8-9thgd",{"micros":51059,"calls":["get_user",{"micros":8232},"add_authorized_ip",{"micros":3691},"get_guilds",{"micros":4086},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: c3b492365caf5f294845b4d57884f409).
+2022-04-22 13:43:03,395 - INFO: JamesThePyBot is ready to help you !
+2022-04-22 13:46:34,830 - INFO: Received signal to terminate bot and event loop.
+2022-04-22 13:46:34,831 - INFO: Cleaning up tasks.
+2022-04-22 13:46:34,831 - INFO: Cleaning up after 1 tasks.
+2022-04-22 13:46:34,833 - INFO: All tasks finished cancelling.
+2022-04-22 13:46:34,834 - INFO: Closing the event loop.
+2022-04-22 13:46:36,331 - WARNING: PyNaCl is not installed, voice will NOT be supported
+2022-04-22 13:46:36,332 - INFO: logging in using static token
+2022-04-22 13:46:36,725 - INFO: Shard ID None has sent the IDENTIFY payload.
+2022-04-22 13:46:36,897 - INFO: Shard ID None has connected to Gateway: ["gateway-prd-main-9czr",{"micros":73105,"calls":["discord-sessions-blue-prd-2-162",{"micros":70933,"calls":["start_session",{"micros":46364,"calls":["discord-api-67fb5dfbc8-v686d",{"micros":41464,"calls":["get_user",{"micros":7805},"add_authorized_ip",{"micros":2357},"get_guilds",{"micros":5751},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: b00d78c3b33eec1a7751edeebcb1b663).
+2022-04-22 13:46:39,368 - INFO: JamesThePyBot is ready to help you !
+2022-04-22 13:46:42,571 - INFO: Display command manual
+2022-04-22 13:48:44,003 - INFO: Received signal to terminate bot and event loop.
+2022-04-22 13:48:44,004 - INFO: Cleaning up tasks.
+2022-04-22 13:48:44,004 - INFO: Cleaning up after 1 tasks.
+2022-04-22 13:48:44,007 - INFO: All tasks finished cancelling.
+2022-04-22 13:48:44,009 - INFO: Closing the event loop.
+2022-04-22 13:48:45,371 - WARNING: PyNaCl is not installed, voice will NOT be supported
+2022-04-22 13:48:45,372 - INFO: logging in using static token
+2022-04-22 13:48:45,720 - INFO: Shard ID None has sent the IDENTIFY payload.
+2022-04-22 13:48:45,894 - INFO: Shard ID None has connected to Gateway: ["gateway-prd-main-s8b5",{"micros":73771,"calls":["discord-sessions-blue-prd-2-124",{"micros":72775,"calls":["start_session",{"micros":51989,"calls":["discord-api-67fb5dfbc8-c9c5t",{"micros":47951,"calls":["get_user",{"micros":7554},"add_authorized_ip",{"micros":4703},"get_guilds",{"micros":9555},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":6104,"calls":[]}]}]}] (Session ID: ff8051df0c8c388d897765f181b7cae8).
+2022-04-22 13:48:48,327 - INFO: JamesThePyBot is ready to help you !
+2022-04-22 13:48:48,334 - INFO: Display command manual
+2022-04-22 13:49:09,831 - INFO: Received signal to terminate bot and event loop.
+2022-04-22 13:49:09,831 - INFO: Cleaning up tasks.
+2022-04-22 13:49:09,832 - INFO: Cleaning up after 1 tasks.
+2022-04-22 13:49:09,836 - INFO: All tasks finished cancelling.
+2022-04-22 13:49:09,837 - INFO: Closing the event loop.
+2022-04-22 13:49:10,916 - WARNING: PyNaCl is not installed, voice will NOT be supported
+2022-04-22 13:49:10,916 - INFO: logging in using static token
+2022-04-22 13:49:11,335 - INFO: Shard ID None has sent the IDENTIFY payload.
+2022-04-22 13:49:11,575 - INFO: Shard ID None has connected to Gateway: ["gateway-prd-main-zfl2",{"micros":134665,"calls":["discord-sessions-blue-prd-2-76",{"micros":133777,"calls":["start_session",{"micros":98439,"calls":["discord-api-67fb5dfbc8-bzgtz",{"micros":91753,"calls":["get_user",{"micros":12317},"add_authorized_ip",{"micros":9859},"get_guilds",{"micros":11831},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":33833,"calls":[]}]}]}] (Session ID: 0a954bca39c77473c542c5ab11a4d426).
+2022-04-22 13:49:14,029 - INFO: JamesThePyBot is ready to help you !
+2022-04-22 13:49:14,448 - INFO: Display command manual
+2022-04-22 13:49:54,997 - INFO: Received signal to terminate bot and event loop.
+2022-04-22 13:49:54,998 - INFO: Cleaning up tasks.
+2022-04-22 13:49:54,998 - INFO: Cleaning up after 1 tasks.
+2022-04-22 13:49:55,000 - INFO: All tasks finished cancelling.
+2022-04-22 13:49:55,000 - INFO: Closing the event loop.
+2022-04-22 13:49:56,335 - WARNING: PyNaCl is not installed, voice will NOT be supported
+2022-04-22 13:49:56,335 - INFO: logging in using static token
+2022-04-22 13:49:56,680 - INFO: Shard ID None has sent the IDENTIFY payload.
+2022-04-22 13:49:56,836 - INFO: Shard ID None has connected to Gateway: ["gateway-prd-main-kmc9",{"micros":54551,"calls":["discord-sessions-blue-prd-2-168",{"micros":53670,"calls":["start_session",{"micros":44515,"calls":["discord-api-67fb5dfbc8-92qf2",{"micros":41066,"calls":["get_user",{"micros":12734},"add_authorized_ip",{"micros":2948},"get_guilds",{"micros":4177},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":896,"calls":[]}]}]}] (Session ID: c271858663f97436c16e1ea3d6e08951).
+2022-04-22 13:49:59,407 - INFO: JamesThePyBot is ready to help you !
+2022-04-22 13:50:00,898 - INFO: Display command manual
+2022-04-22 13:50:30,384 - INFO: 2 messages were deleted
+2022-04-22 13:51:09,064 - INFO: Reaching webserver
+2022-04-22 13:51:47,270 - INFO: 2 messages were deleted
+2022-04-22 13:54:30,566 - INFO: Message sent in \U0001f37b-la-papote
+2022-04-22 13:56:55,879 - INFO: 20 messages were deleted
+2022-04-22 14:04:46,994 - INFO: Received signal to terminate bot and event loop.
+2022-04-22 14:04:46,995 - INFO: Cleaning up tasks.
+2022-04-22 14:04:46,995 - INFO: Cleaning up after 1 tasks.
+2022-04-22 14:04:47,000 - INFO: All tasks finished cancelling.
+2022-04-22 14:04:47,001 - INFO: Closing the event loop.
